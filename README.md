@@ -2,4 +2,4 @@
 
 便利なアプリケーション
 
-[![ScreenShot](http://i.imgur.com/X8yd5iu.png)]
+![ScreenShot](http://i.imgur.com/X8yd5iu.png)
