@@ -12,4 +12,11 @@
 
 @property (assign) IBOutlet NSWindow *window;
 
+@property (weak) IBOutlet NSTextField *gyuudonView;
+@property (weak) IBOutlet NSTextField *kgInput;
+
+- (IBAction)calc:(id)sender;
+- (IBAction)tweet:(id)sender;
+- (IBAction)quit:(id)sender;
+
 @end
